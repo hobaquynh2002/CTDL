@@ -1,3 +1,4 @@
+#get content XML
 from bs4 import BeautifulSoup
 import requests
 with open('file1.xml', 'r') as f:
